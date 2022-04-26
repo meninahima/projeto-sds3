@@ -14,7 +14,7 @@ const DataTable = () => {
                 <tbody>
                     <tr>
                         <td>22/05/2022</td>
-                        <td>Mayle/td>
+                        <td>Mayle</td>
                         <td>22</td>
                         <td>12</td>
                         <td>3.500.00</td>
