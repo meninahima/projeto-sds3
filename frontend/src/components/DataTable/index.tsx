@@ -18,8 +18,7 @@ const DataTable = () => {
                         <td>22</td>
                         <td>12</td>
                         <td>3.500.00</td>
-                    </tr>
-                    <tr>
+                    </tr> <tr>
                         <td>22/05/2022</td>
                         <td>Wesley</td>
                         <td>34</td>
